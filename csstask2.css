@@ -1,0 +1,29 @@
+.vnavbar{
+    background-color: rgb(167, 167, 238);
+    border: 2px solid black;
+    padding: 5px 5px 5px 5px;
+    width: 150px;
+}
+.vnavbar li a:hover{
+    background-color: yellow;
+}
+.vnavbar li a{
+    padding: 2px 2px;
+    text-decoration: none;
+    color: blue;
+}
+
+.hnavbar{
+    background-color: rgb(200, 200, 200);
+    border: 2px solid black;
+    padding: 5px 5px 5px 5px;
+    width: 270px;
+}
+.hnavbar a:hover{
+    background-color: rgb(105, 105, 102);
+}
+.hnavbar a{
+    padding: 2px 2px;
+    text-decoration: none;
+    color: blue;
+}

@@ -1,0 +1,30 @@
+img{
+    height: 150px;
+    padding: 50px 0px 0px 150px;
+}
+label{
+    font-weight: bolder;
+}
+td{
+    text-align: left;
+    padding-top: 10px;
+}
+input{
+    padding: 6px 300px 8px 5px;
+}
+#login{
+    padding: 8px 218px 8px;
+    background-color: rgba(44, 203, 71, 0.845);
+    cursor: pointer;
+}
+#res{
+    padding: 8px 10px 8px;
+    background-color: rgb(245, 73, 73);
+    cursor: pointer;
+}
+a{
+    padding-left: 287px;
+}
+#footer{
+    background-color: rgb(232, 232, 232);
+}

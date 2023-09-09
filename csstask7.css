@@ -1,0 +1,21 @@
+table{
+    background-color: rgb(83, 20, 52);
+    color: white;
+    font-size: large;
+}
+body{
+    background-color: rgb(120, 9, 65);
+}
+td{
+    padding-top: 10px;
+}
+#about{
+    padding-bottom: 25px;
+}
+#register{
+    cursor: pointer;
+    font-weight: bolder;
+    padding: 5px 10px 5px 10px;
+    border-radius: 6px;
+}
+

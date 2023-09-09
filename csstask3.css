@@ -1,0 +1,22 @@
+table{
+    border: none;
+}
+td{
+    padding: 10px 300px 20px 10px;
+    border-width: 0px;
+}
+th{
+    padding: 20px 100px 20px 10px;
+    background-color: rgba(59, 197, 117, 0.837);
+    text-align: left;
+    color: white;
+}
+tr:nth-child(even){
+    background-color: rgb(202, 202, 202);
+}
+tr:nth-child(odd){
+    background-color: white;
+}
+tr :hover{
+    background-color: rgb(5, 187, 187);
+}
